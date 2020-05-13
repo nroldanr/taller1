@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'luminosity.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'p1-eafit3-db',                     
-        'USER': 'aarangov1@pi1-eafit-dbaarangov1',                     
-        'PASSWORD': 'Darge012',                  
-        'HOST': 'pi1-eafit-dbaarangov1.mysql.database.azure.com',                     
+        'NAME': 'p1-eafit-db',                     
+        'USER': 'nroldanr@pi1-eafit-dbnroldanr',                     
+        'PASSWORD': 'dhhOSG50',                  
+        'HOST': 'pi1-eafit-dbnroldanr.mysql.database.azure.com',                     
         'PORT': '3306',
     }
 }
